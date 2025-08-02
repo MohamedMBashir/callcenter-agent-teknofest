@@ -1,0 +1,1 @@
+# Whisper REST wrapper Dockerfile
